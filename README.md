@@ -9,8 +9,11 @@ Experienced Engineer with a strong track record in developing advanced ML models
 abnormal usage behavior, presenting actionable insights in an interactive QuickSight dashboard for senior leadership.
 • Developed a forecasting model utilizing NHITS, Theta to forecast customer usage of AWS services across multiple dimensions.
 Automated the ETL process and dashboard, enabling other AWS teams to swiftly adopt and customize the model within a day
-##### State of the business analysis: Played a pivotal role in influencing a VP-level leadership decision to sunset an AWS service ($360M ARR)
-- Led a thorough data-driven analysis to assess business performance, identifying an opportunity to facilitate the migration of the top 57% of customers to alternative AWS services, resulting in a revenue savings of $127 million
+##### State of the business analysis: 
+• Played a pivotal role in influencing a VP-level leadership decision to sunset an AWS service ($360M ARR)
+• Led a thorough data-driven analysis to assess business performance, identifying an opportunity to facilitate the migration of the top 57% of customers to alternative AWS services, resulting in a revenue savings of $127 million
+• Conducted a pricing analysis on the free tier to evaluate the impact on adoption rates and revenue for multiple AWS services.
+
 ##### Data Engineering: Data ingestions and ETL enhancements
 - Created first end to end data ingestion pipeline to ingest DynamoDB JSON data using PySpark, AWS Glue to provide insights into features for AWS services. The ingestion template is now adopted by 4+ teams across the org
 - Led the revamp of legacy ETL code logic, resulting in a 30-hour decrease in ETL processing time and a 43% overall improvement
