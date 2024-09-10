@@ -4,7 +4,7 @@ Experienced Engineer with a strong track record in developing advanced ML models
 
 ### Work Expereince 
 **Business Intelligence Engineer II @ Amazon Web services (_Nov 2020 - Present_)**
-### Machine Learning developments:
+##### Machine Learning developments:
 • Developed an anomaly detection machine learning model using Isolation Forest. Successfully identified top 10% customers with
 abnormal usage behavior, presenting actionable insights in an interactive QuickSight dashboard for senior leadership.
 • Developed a forecasting model utilizing NHITS, Theta to forecast customer usage of AWS services across multiple dimensions.
