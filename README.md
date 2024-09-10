@@ -4,10 +4,11 @@ Experienced Engineer with a strong track record in developing advanced ML models
 
 ### Work Expereince 
 **Business Intelligence Engineer II @ Amazon Web services (_Nov 2020 - Present_)**
-##### Anomaly Detection machine learning model development: Built a mechanism to identify customers with unusual usage deviations
-- Developed an anomaly detection machine learning model using Isolation Forest and Prophet.
--  Successfully identified top 10% customers with abnormal usage behavior, presenting actionable insights in an interactive QuickSight dashboard for senior leadership
-- Collaborated closely with PM and sales teams to identify and address anomalous behavior, enhancing model performance by 28%
+### Machine Learning developments:
+• Developed an anomaly detection machine learning model using Isolation Forest. Successfully identified top 10% customers with
+abnormal usage behavior, presenting actionable insights in an interactive QuickSight dashboard for senior leadership.
+• Developed a forecasting model utilizing NHITS, Theta to forecast customer usage of AWS services across multiple dimensions.
+Automated the ETL process and dashboard, enabling other AWS teams to swiftly adopt and customize the model within a day
 ##### State of the business analysis: Played a pivotal role in influencing a VP-level leadership decision to sunset an AWS service ($360M ARR)
 - Led a thorough data-driven analysis to assess business performance, identifying an opportunity to facilitate the migration of the top 57% of customers to alternative AWS services, resulting in a revenue savings of $127 million
 ##### Data Engineering: Data ingestions and ETL enhancements
